@@ -17,7 +17,7 @@ This project demonstrates the creation and management of a simple Library Manage
 
 ## ER Diagram:
 Here is the ER diagram that illustrates the database schema:
-![ER Diagram](diagrams/er_diagram.png)
+![ER Diagram](er_diagram.png)
 
 ## Technologies Used:
 - **MySQL**: Used for database creation and querying.
